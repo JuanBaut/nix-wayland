@@ -3,6 +3,7 @@
     imagemagick
     alacritty
     keepassxc
+    chezmoi
     cbonsai
     ripgrep
     unzip
